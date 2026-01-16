@@ -8,7 +8,7 @@ This backend follows clean architecture principles with clear separation of conc
 
 ```
 backend/
-├── cmd/GO_BOILERPLATE_CODE/        # Application entry point
+├── cmd/Go_BoilerPlate_Code/        # Application entry point
 ├── internal/                       # Private application code
 │   ├── config/                     # Configuration management
 │   ├── database/                   # Database connections and migrations

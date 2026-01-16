@@ -37,13 +37,14 @@ go-boilerplate/
 
 ### Installation
 
+
 1. Clone the repository:
 ```bash
-git clone https://github.com/sriniously/go-boilerplate.git
-cd go-boilerplate
+git clone https://github.com/Sameer16536/Go_BoilerPlate_Code.git
+cd Go_BoilerPlate_Code
 ```
 
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 # Install frontend dependencies
 bun install

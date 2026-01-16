@@ -19,9 +19,9 @@ tasks:
     internal: true
 
   run:
-    desc: run the cmd/GO_BOILERPLATE_CODE application
+    desc: run the cmd/Go_BoilerPlate_Code application
     cmds:
-    - go run ./cmd/GO_BOILERPLATE_CODE
+    - go run ./cmd/Go_BoilerPlate_Code
 
   migrations:new:
     desc: create a new database migration
